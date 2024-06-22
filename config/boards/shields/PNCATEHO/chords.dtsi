@@ -97,9 +97,15 @@ TCOMBO(M,      &kp M,       &kp LS(M),     &kp N0,      &kp F10,       BLR BLI, 
 TCOMBO(U,      &kp U,       &kp LS(U),     &kp EXCL,    &kp F11,       TLP TLM,     TRP TRM)
 TCOMBO(P,      &kp P,       &kp LS(P),     &kp AT,      &kp F12,       TLR TLI,     TRR TRI)
 TCOMBO(COMMA,  &kp COMMA,   &kp LS(COMMA), &kp HASH,    &none,         TLP BLI,     TRP BRI)
+<<<<<<< HEAD
+TCOMBO(DOT,    &kp DOT,     &kp LS(DOT),   &kp DLLR,    &none,         BLP TLI,     BRP TRI)
+TCOMBO(P,      &kp P,       &kp LS(P),     &kp PRCNT,   &none,         TLP BLM,     TRP BRM)
+TCOMBO(F,      &kp F,       &kp LS(F),     &kp CARET,   &none,         BLR TLI,     BRR TRI)
+=======
 TCOMBO(X,      &kp X,       &kp LS(X),     &kp DLLR,    &none,         BLP TLI,     BRP TRI)
 TCOMBO(Q,      &kp Q,       &kp LS(Q),     &kp PRCNT,   &none,         TLP BLM,     TRP BRM)
 TCOMBO(LBKT,   &kp LBKT,    &kp LS(LBKT),  &kp CARET,   &none,         BLR TLI,     BRR TRI)
+>>>>>>> parent of 5b5a84a (test)
 TCOMBO(SEMI,   &kp SEMI,    &kp LS(SEMI),  &kp AMPS,    &none,         BLP TLM,     BRP TRM)
 TCOMBO(I,      &kp I,       &kp LS(I),     &kp STAR,    &none,         TLR BLI,     TRR BRI)
 TCOMBO(DOT,    &kp DOT,     &kp LS(DOT),   &kp LPAR,    &none,         TLP BLR,     TRP BRR)
