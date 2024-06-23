@@ -100,7 +100,7 @@ TCOMBO(K,      &kp K,       &kp LS(K),     &kp HASH,    &none,         TLP BLI, 
 TCOMBO(HOME,   &kp HOME,    &kp LS(HOME),  &kp DLLR,    &none,         BLP TLI,     BRP TRI)
 TCOMBO(Q,      &kp Q,       &kp LS(Q),     &kp PRCNT,   &none,         TLP BLM,     TRP BRM)
 TCOMBO(LBKT,   &kp LBKT,    &kp LS(LBKT),  &kp CARET,   &none,         BLR TLI,     BRR TRI)
-TCOMBO(Z,      &kp z,       &kp LS(Z),     &kp AMPS,    &none,         BLP TLM,     BRP TRM)
+TCOMBO(Z,      &kp Z,       &kp LS(Z),     &kp AMPS,    &none,         BLP TLM,     BRP TRM)
 TCOMBO(RBKT,   &kp RBKT,    &kp LS(RBKT),  &kp STAR,    &none,         TLR BLI,     TRR BRI)
 TCOMBO(DOT,    &kp DOT,     &kp LS(DOT),   &kp LPAR,    &none,         TLP BLR,     TRP BRR)
 TCOMBO(P,      &kp P,       &kp LS(P),     &kp RPAR,    &none,         TLI BLM,     TRI BRM)
